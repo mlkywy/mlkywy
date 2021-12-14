@@ -1,4 +1,4 @@
-- hi, i’m alina! i’m interested in software or game development!
+- hi, i’m alina! i’m interested in software development with a hobby for games!
 - currently learning javascript! with a bit of dabbling in C# and python.
 - reach me at my email alsheikh@iu.edu / sarcollap@gmail.com!
 
