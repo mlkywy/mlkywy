@@ -2,7 +2,7 @@
 
 **_Hi, I’m Alina!_** 🌻 I am a University student interested in working in software development with a hobby for games! I also enjoy making art and designing graphics.
 
-Reach me at my email alsheikh@iu.edu / sarcollap@gmail.com!
+Reach me at my email alsheikh@iu.edu / mlkysheikh@gmail.com!
 
 
 #### Learning
