@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/91434717/148108307-14e4b338-7e33-474e-bb13-154186d0cec7.png" width="250" />
 
-**_Hi, I’m Alina!_** 🌻 I am a University student interested in working in software development with a hobby for games! I also enjoy making art and designing graphics.
+**_Hi, I’m Alina!_** 🌻 I am a recent University graduate interested  in working in software development with a hobby for games! I also enjoy making art and designing graphics.
 
 Reach me at my email alsheikh@iu.edu / mlkysheikh@gmail.com!
 
