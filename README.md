@@ -1,8 +1,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/91434717/148108307-14e4b338-7e33-474e-bb13-154186d0cec7.png" width="250" />
 
-**_Hi, I’m Alina!_** 🌻 I am a recent University graduate interested  in working in software development with a hobby for games! I also enjoy making art and designing graphics. [My portfolio!](https://alshei.github.io/)
+**_Hi, I’m Alina!_** 🌻 I am a software developer who also enjoys making games, creating art, and designing graphics. [Check out my portfolio!](https://www.mlkywy.net/)
 
-Reach me at my email, mlkysheikh@gmail.com!
+Reach me at my email, mlkysheikh@gmail.com, or leave a comment on my contact form.
 
 
 #### Learning
