@@ -1,6 +1,6 @@
 
 ## hi, i’m alina! 🚀
-* Recent graduate & software engineer.
+* Recent graduate & software engineer at [Lockstep](https://lockstep.io/).
 * Hobbyist game developer, artist, graphic designer.
 * Always trying to learn something new!
 
