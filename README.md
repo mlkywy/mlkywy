@@ -32,10 +32,10 @@ const mlkywy = new GitHubProfile();
 
 ##### Languages
 
-![C#](https://img.shields.io/badge/c%23-1784a5.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/Javascript-fc444a?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-1784a5?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-fc444a.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-fc444a.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/Javascript-1784a5?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-fc444a?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-1784a5.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ##### Frameworks / Technologies
 ![.Net](https://img.shields.io/badge/.NET-fc444a?style=for-the-badge&logo=.net&logoColor=white)
@@ -49,10 +49,10 @@ const mlkywy = new GitHubProfile();
 
 ##### Databases
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-1784a5?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-fc444a.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-1784a5.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-fc444a.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-fc444a?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-1784a5.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-fc444a.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1784a5.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
