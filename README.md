@@ -2,9 +2,7 @@
 
 ---
 
-#### I am a software engineer based in the Midwest US.
-
-I graduated in the summer of 2022 with a degree in Media Arts and Science before deciding to pursue programming as a career. I currently work as a junior .NET backend developer focused primarily on developing APIs. I am also a hobbyist game developer, artist, and graphic designer who strives to continuously learn new technologies. [Check out my website!](https://www.mlkywy.net/) 
+#### I currently work as a .NET backend software engineer focused primarily on developing APIs. I am also an amateur artist & game developer who strives to continuously learn new technologies. [Check out my website!](https://www.mlkywy.net/) 
 
 ```js
 class GitHubProfile {
@@ -54,11 +52,3 @@ const mlkywy = new GitHubProfile();
 ![MySQL](https://img.shields.io/badge/mysql-fc444a.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1784a5.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
-
-
-<!--- 
-alshei/alshei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
