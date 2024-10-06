@@ -3,7 +3,7 @@
 ---
 
 #### I currently work as a backend software engineer focused primarily on developing APIs. 
-I am also an amateur artist & game developer who strives to continuously learn new technologies. [Check out my website!](https://www.mlkywy.net/) 
+I am also an amateur artist & game developer who strives to continuously learn new technologies.
 
 ```js
 class GitHubProfile {
